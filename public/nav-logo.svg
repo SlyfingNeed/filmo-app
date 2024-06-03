@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="123.28965mm"
+   height="26.23735mm"
+   viewBox="0 0 123.28965 26.23735"
+   version="1.1"
+   id="svg5"
+   inkscape:export-filename="bitmap.svg"
+   inkscape:export-xdpi="100"
+   inkscape:export-ydpi="100"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview7"
+     pagecolor="#505050"
+     bordercolor="#eeeeee"
+     borderopacity="1"
+     inkscape:showpageshadow="0"
+     inkscape:pageopacity="0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#505050"
+     inkscape:document-units="mm"
+     showgrid="false" />
+  <defs
+     id="defs2" />
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1"
+     transform="translate(-40.409039,-122.77821)">
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:30.347px;font-family:sans-serif;-inkscape-font-specification:'sans-serif Bold';text-align:center;letter-spacing:7.9375px;text-anchor:middle;opacity:1;fill:#ff0000;fill-opacity:1;stroke:#ff0000;stroke-width:2;stroke-dasharray:none;stroke-opacity:0;paint-order:fill markers stroke"
+       x="103.52377"
+       y="144.49179"
+       id="text236"
+       transform="scale(0.97879623,1.0216631)"><tspan
+         sodipodi:role="line"
+         id="tspan234"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:'Microsoft JhengHei';-inkscape-font-specification:'Microsoft JhengHei Bold';fill:#ff0000;fill-opacity:1;stroke:#ff0000;stroke-width:2;stroke-dasharray:none;stroke-opacity:1"
+         x="107.49252"
+         y="144.49179"
+         rotate="0 0 0 0 0 0"
+         dx="0">FILMO</tspan></text>
+  </g>
+</svg>

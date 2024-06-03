@@ -1,8 +1,18 @@
+import Footer from "../../components/Footer";
+import Hero from "../../components/Hero";
+import Prompt from "../../components/Prompt";
+import Result from "../../components/Result";
+import Suggestion from "../../components/Suggestion";
+
+
 export default function Home() {
   return (
-    <h1 className="text-bold text-black-500">
-      Halo indonesia
-    </h1>
-    
+    <>  
+      <Hero/>
+      <Prompt/>
+      <Result/>
+      <Suggestion/>
+      <Footer/>
+      </>
   )
 }
