@@ -1,4 +1,6 @@
+"use client"
 import React from 'react'
+import { useRouter } from 'next/router'
 
 const Result = () => {
   return (

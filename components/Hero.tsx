@@ -7,7 +7,7 @@ const Hero = () => {
       
       <div className="absolute text-center bottom-36 gap-12 font-extrabold text-xl md:text-4xl text-white z-10">WATCH MOVIES FROM 
       <br/><span className="break-all text-3xl md:text-6xl underline decoration-red-700">YOUR IMAGINATION</span>
-      <br/><span className="break-words mx-4 leading-3 gap-0 font-thin text-xs md:text-sm ">Search movies with generative AI prompt that able to assist your preferences on movies, series, documentary, and many more. Sit tight, ready your popcorn, binge watch!</span>
+      <br/><span className="break-words font-thin text-xs md:text-sm ">Search movies with generative AI prompt that able to assist your preferences on movies, series, documentary, and many more. Sit tight, ready your popcorn, binge watch!</span>
       </div>
 
       <div className="flex flex-col absolute bottom-16 z-10">

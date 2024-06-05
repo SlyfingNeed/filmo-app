@@ -1,9 +1,8 @@
 import Footer from "../../components/Footer";
 import Hero from "../../components/Hero";
 import Prompt from "../../components/Prompt";
-import Result from "../../components/Result";
-import Suggestion from "../../components/Suggestion";
-
+import Result from '../../components/clientside/[id]/Result';
+import History from '../../components/clientside/[id]/History';
 
 export default function Home() {
   return (
@@ -11,7 +10,7 @@ export default function Home() {
       <Hero/>
       <Prompt/>
       <Result/>
-      <Suggestion/>
+      <History/>
       <Footer/>
       </>
   )
